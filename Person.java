@@ -34,7 +34,7 @@ public class Person {
   //lets create the instans (A fanciy way to sys objects)
   Person person1 = new Person("geohot", 36);
   Person person2 = new Person("leCun", 66);
-  :
+  
   person1.printDetails();
   person2.printDetails();
  }
