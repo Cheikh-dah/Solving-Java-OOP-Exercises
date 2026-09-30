@@ -1,6 +1,22 @@
+# Compiled Java class files
 *.class
-<<<<<<< HEAD
-=======
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Editor swap and backup files (Kate, Vim, etc.)
 .*.kate-swp
 *~
->>>>>>> e877bd7 (Adding a .gitignore & the solution to Exo 3)
+*.swp
+*.swo
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+bin/
