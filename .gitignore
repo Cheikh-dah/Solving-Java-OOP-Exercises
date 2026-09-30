@@ -1,1 +1,6 @@
 *.class
+<<<<<<< HEAD
+=======
+.*.kate-swp
+*~
+>>>>>>> e877bd7 (Adding a .gitignore & the solution to Exo 3)
